@@ -1,0 +1,3 @@
+# Pemberian obat antihistamin, dalam bentuk obat minum (oral) atau oles, untuk mengurangi gatal yang diakibatkan lichen planus
+# Pemberian obat kortikosteroid, dalam bentuk salep, tablet, atau injeksi, untuk mengurangi peradangan
+# Pemberian obat imunosupresan, dalam bentuk krim atau salep, untuk menekan aktivitas sistem imun yang berlebihan sehingga gejala mereda

@@ -1,0 +1,4 @@
+1.Isoniazid
+2.Rifampicin
+3.Pyrazinamide
+4.Ethambutol

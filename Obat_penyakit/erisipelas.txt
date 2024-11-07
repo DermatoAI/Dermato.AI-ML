@@ -1,0 +1,18 @@
+Jika pasien mengalami gejala berat, dokter akan menganjurkan rawat inap. Dokter akan memberikan antibiotik kepada pasien melalui suntik atau infus untuk mengatasi infeksi. Sementara jika gejala masih tergolong ringan, dokter akan meresepkan antibiotik minum tanpa harus menyarankan rawat inap.
+
+Beberapa antibiotik yang dapat diberikan oleh dokter adalah:
+
+    Penicillin
+    Erythromycin
+    Ceftriaxone
+    Clindamycin
+    Sulfamethoxazole atau trimethoprim
+    Doxycycline
+    Vancomycin
+
+Selain penggunaan antibiotik, dokter juga akan menganjurkan pasien untuk melakukan hal-hal di bawah ini guna mempercepat proses penyembuhan:
+
+    # Melakukan tirah baring (bed rest) dengan menyangga kaki menggunakan bantal untuk mengurangi pembengkakan
+    # Mengompres dingin ruam untuk mengurangi nyeri
+    # Mengonsumsi obat antinyeri jika diperlukan
+    # Minum yang cukup agar terhindar dari dehidrasi
